@@ -8,7 +8,7 @@
 - Deployed on Valgrind 
 
 ### Valgrind setup
-1. git clone http://github.com/<username>/fullstack-nanodegree-vm fullstack
+1. git clone http://github.com/username/fullstack-nanodegree-vm fullstack
 2. cd fullstack/vagrant
 3. vagrant up - to launch the virtual machine
 4. Once it is up and running, type vagrant ssh. This will log your terminal into the virtual machine, and you'll get a Linux shell prompt.
