@@ -4,4 +4,5 @@
 - Written in Python
 - Database - SQL
 - ORM - SQL Alchemy
-- Run on Valgrind 
+- Server - Http Webserver
+- Deployed on Valgrind 
